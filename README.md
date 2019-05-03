@@ -1,7 +1,7 @@
 # zeslecp
 zeslecp
 
-ZesleCP v2.0.0-rc.11 is available Now, see full features
+# ZesleCP v2.0.0-rc.11 is available Now, see full features
 
 # $0/mo
 # Free license
