@@ -3,34 +3,34 @@ zeslecp
 
 ZesleCP v2.0.0-rc.11 is available Now, see full features
 
-#$0/mo
+# $0/mo
 
-#Free license
+# Free license
 
-#Unlimited Domains
+# Unlimited Domains
 
-#Unlimited Emails
+# Unlimited Emails
 
-#Pre-Installed WebMail
+# Pre-Installed WebMail
 
-#Multiple PHP Versions
+# Multiple PHP Versions
 
-#PHP Config Editor
+# PHP Config Editor
 
-#Manage PHP Extensions
+# Manage PHP Extensions
 
 
-#Launch 2+ Apps 1-Click
+# Launch 2+ Apps 1-Click
 
-#SSH Users
+# SSH Users
 
-#Pre-Installed phpMyAdmin
+# Pre-Installed phpMyAdmin
 
-#Easy Private NameServers
+# Easy Private NameServers
 
-#Easy DNS Management
+# Easy DNS Management
 
-#Free SSL by Let's Encrypt
+# Free SSL by Let's Encrypt
 
 To install Zesle on your server, run the following command:
 
