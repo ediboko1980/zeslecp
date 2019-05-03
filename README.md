@@ -23,7 +23,9 @@ To install Zesle on your server, run the following command:
 please email us to support@zeslecp.com, we will update you when new version of zesle available.
 
 Run following command to Install ZesleCP Free Version or upgrade from older free versions
+
 cd /home && sudo curl -o latest -L https://raw.githubusercontent.com/marconimp/zeslecp/master/latest && sudo sh latest
+
 This command changes your session to the home directory, downloads the latest version of Zesle, and runs the installation script.
 
 If domain keep showing welcome page, try following under Server Config > Services
