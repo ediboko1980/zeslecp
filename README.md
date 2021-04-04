@@ -1,4 +1,5 @@
 # ZesleCP v2.0.0-rc.11 is available Now, see full features
+//please update it :(
 
 # $0/mo
 # Free license
